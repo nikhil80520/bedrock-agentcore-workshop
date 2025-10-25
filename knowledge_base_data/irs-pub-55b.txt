@@ -1,0 +1,437 @@
+--- Page 2 ---
+Department of the Treasury
+Internal Revenue Service
+Michael Faulkender (Acting)
+Deputy Secretary of the United States Department of Treasury
+Commissioner of Internal Revenue
+Reza Rashidi (Acting)
+Chief Data and Analytics Officer
+Mark Xu
+Deputy Chief Data and Analytics Officer - Statistics
+Director, Statistics of Income
+The IRS Mission
+Provide America’s taxpayers top-quality service by helping them
+understand and meet their tax responsibilities and enforce the
+law with integrity and fairness to all.
+Internal Revenue Service Data Book, 2024
+--- Page 3 ---
+This report describes activities conducted by
+the Internal Revenue Service during Fiscal Year
+2024 (October 1, 2023, through September 30,
+2024). It provides information on returns filed and
+taxes collected, enforcement, taxpayer assis-
+tance, the IRS budget and workforce, and other
+selected activities.
+When using information from this report, cite
+the Internal Revenue Service Data Book, 2024,
+as follows—
+Internal Revenue Service
+Data Book, 2024
+Publication 55–B
+Washington, DC
+May 2025
+Contents
+
+--- Page 4 ---
+Internal Revenue Service Data Book, 2024
+iv
+Letter from the Acting Commissioner
+I’m pleased to present the Fiscal Year (FY) 2024 Internal
+Revenue Service Data Book. This document is designed
+to provide multifaceted views of the important work IRS
+employees have performed during the past year to help
+taxpayers, ensure fair enforcement of tax laws, and main­
+tain the integrity of our tax system.
+Sharing these data gives readers insight into the broad
+scope of our work. The IRS’s activities each year reflect
+the importance of the agency and our workforce to the
+nation. In FY 2024, the IRS collected approximately
+$5.1 trillion in gross revenues, generating about 96%
+of the funding that supports the federal government’s
+operations.
+The hard work of our dedicated employees makes it pos­
+sible for the government to perform its vital functions and
+fund our nation on everything from infrastructure to defense.
+During FY 2024, IRS employees processed more than 266.6
+million tax returns and other forms, including 161 million
+individual income tax returns.
+The past two filing seasons saw continued improvement
+in IRS levels of service—on the phone, in person, and on­
+line—thanks to the efforts of our workforce and our use of
+long-term resources provided by Congress. In FY 2024, our
+customer service representatives answered approximately
+20 million live phone calls. At our Taxpayer Assistance
+Centers around the country, we had more than 2 million
+contacts, increasing the in-person help we provided to
+taxpayers by nearly 26% compared to FY 2023.
+Taxpayers continued their strong use of online offerings
+in FY 2024, making nearly 690 million visits to IRS.gov.
+There were also more than 382.8 million inquiries on our
+popular “Where’s My Refund?” online tool, which enables
+taxpayers to check the status of their tax refund—up 26%
+from FY 2023.
+To ensure taxpayers will continue to see improvements in
+online services, we remained focused on the IRS Digital
+First Initiative during FY 2024. This is our vision to enable
+taxpayers to digitally complete all their transactions with
+the IRS if they choose to do so, offering options like what
+banks and other financial institutions provide to their cus­
+tomers. We’ve created and enhanced online tools that save
+taxpayers time and headaches, while at the same time
+reducing the need for phone calls and paper processes.
+As a result of our efforts, the IRS has launched more digital
+tools in the last 2 years than in the previous 20.
+As part of this initiative, we broadened the capabilities of
+the IRS Online Account and Tax Pro Account in FY 2024
+to give taxpayers and tax professionals the ability to
+perform more types of transactions in their accounts. For
+example, they can now view key details of their tax return,
+get account transcripts, and view or make payments to
+us. We also expanded the functionality of the Business
+Tax Account and expanded the types of users to include
+C corporations, so that millions of businesses now qualify
+to use this self-service tool.
+In the area of compliance, our commitment to maintaining
+a visible, robust tax enforcement presence to appropri­
+ately support taxpayers and promote fairness in the tax
+system remained strong. We continued to make progress
+developing and using innovative approaches to better
+understand, detect, and resolve potential noncompliance,
+such as leveraging new technology and data analytics to
+fairly enforce the tax laws.
+This year’s Data Book provides many interesting statistics
+about our operations over the past year. The improvements
+we have already made and the ones we will continue to make
+in FY 2025—and the years beyond—will make a difference for
+our agency. We are confident these efforts will produce sig­
+nificant benefits for taxpayers, the tax system, and the nation.
+Michael Faulkender
+Acting Commissioner of Internal Revenue
+--- Page 5 ---
+
+[1]	 Gross collections include penalties and interest in addition to taxes.
+[2]	 Includes overpayment refunds, refunds resulting from examination activity, refundable tax credits, and other refunds required by law. Also includes $5.3 billion in
+interest, of which $1.6 billion was paid to corporations and $3.7 billion was paid to all others (related to individual, employment, estate, gift, and excise tax returns).
+Excludes refunds credited to taxpayer accounts for tax liability in a subsequent year.
+[3]	 Less than 0.05%.
+[4]	 Collections of withheld individual income tax are not reported by taxpayers separately from Old-Age, Survivors, Disability, and Hospital Insurance (OASDHI) taxes
+on salaries and wages (under the Federal Insurance Contributions Act or FICA) and individual income tax payments along with taxes on self-employment income
+(under the Self-Employment Insurance Contributions Act or SECA). The OASDHI tax collections and refunds shown in this table are based on estimates made by
+the Secretary of the Treasury pursuant to the provisions of Section 201(a) of the Social Security Act as amended and include all OASDHI taxes. Amounts shown
+for individual income tax withheld and individual income tax payments were derived by subtracting the FICA and SECA tax estimates from total individual income
+tax withheld and individual income tax payments. Refund estimates, and, therefore, net collection estimates, were not made for the components of income and
+OASDHI taxes.
+[5]	 Includes collections of estimated income tax and payments made in conjunction with individual income tax return filings.
+[6]	 Includes collections of estimated estate and trust income taxes and payments made in conjunction with estate and trust tax return filings.
+[7]	 Excludes excise taxes collected by U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau.
+NOTES:
+Detail may not add to totals because of rounding.
+All money amounts are in current dollars.
+Collection and refund data may not be comparable for a given fiscal year because payments made in prior years may be refunded in the current fiscal year.
+Partnership, S corporation, regulated investment company, and real estate investment trust data are not shown in this table since these entities generally do not
+have a tax liability. Instead, they pass any profits or losses to the underlying owners, who include these profits or losses on their income tax returns.
+SOURCE:  Chief Financial Officer, Financial Management, Corporate Accounting.
+--- Page 14 ---
+
+[1]	 Excludes information returns (e.g., Forms 1098, 1099, 5498, W–2 and W–2G, and Schedule K–1); tax-exempt bond returns (Forms 8038–B and 8038–TC); and em­
+ployee retirement benefit plan returns (Forms 5500 and 5500–SF). See Table 21 for information on tax-exempt bond returns. See Tables 15 and 21 for information on
+employee retirement benefit plans. See Table 24 for data on information returns. Due to a technical issue, Fiscal Year 2023 counts have been revised to account for the
+removal of Form 1040–SP and Form 1040–SR(SP) to allow for comparison.
+[2]	 Includes Form 1066 (real estate mortgage investment conduit income tax return) and the Form 1120 series as follows: 1120 (corporation income tax return); 1120–C
+(cooperative association income tax return); 1120–F (foreign corporation income tax return, except foreign life insurance company, foreign property and casualty
+insurance company, or foreign sales corporation); 1120–FSC (foreign sales corporation income tax return); 1120–H (homeowner association income tax return);
+1120–L (life insurance company income tax return); 1120–ND (return for nuclear decommissioning funds); 1120–PC (property and casualty insurance company
+income tax return); 1120–POL (income tax return for certain political organizations); 1120–REIT (real estate investment trust income tax return); 1120–RIC (regu­
+lated investment company income tax return); and 1120–SF (income tax return for settlement funds). Form 1120–X (amended corporation income tax return) is
+included with supplemental documents in this table.
+Excludes Form 1120–S (S corporation income tax return), shown separately. Excludes Form 990–T (tax-exempt organization unrelated business income tax return),
+which is included under tax-exempt organizations in this table, although the tax reported on these returns is combined with business income taxes in other tables.
+[3]	 Includes the Form 1040 series as follows: 1040; 1040–A (individual income tax return, short form); 1040–C (income tax return for departing aliens); 1040–EZ (indi­
+vidual income tax return for single and joint filers with no dependents); 1040–NR (nonresident alien income tax return); 1040NR–EZ (income tax return for certain non­
+resident aliens with no dependents); 1040–PR (self-employment income tax return for Puerto Rico residents); 1040–SR and 1040–SR(sp) (tax return for seniors and
+declaración de impuestos de los Estados Unidos para personas de 65 años de edad o más); and 1040–SS (self-employment income tax return for U.S. Virgin Islands,
+Guam, American Samoa, and Northern Mariana Islands residents). Form 1040–X (amended individual income tax return) is included with supplemental documents
+in this table. As a result of the Tax Cuts and Jobs Act of 2017 (TCJA), the Form 1040 was redesigned for Tax Year (TY) 2018, making Forms 1040–A and 1040–EZ
+obsolete. However, as prior-year tax returns continue to be filed, the IRS may continue to receive these forms.
+Excludes 1040–SP (declaración de impuestos de los Estados Unidos sobre los ingresos personales) and 1040–SR (SP) (declaración de impuestos de los Estados
+Unidos para personas de 65 años de edad o más).
+[4]	 Includes Forms 940 (employer’s federal unemployment tax return); 940–EZ (employer’s federal unemployment tax return, short form); 940–PR (unemployment
+tax return for Puerto Rico residents); 941 (employer’s quarterly tax return for income and Social Security taxes withheld for other than household and agricultural
+employees); 941–PR/SS (employer’s quarterly tax return for Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands
+residents); 943 (employer’s tax return for agricultural employees); 943–PR/SS (employer’s tax return for agricultural employees for Puerto Rico residents, or for U.S.
+Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents); 944 (employer’s annual federal tax return); 944–PR/SS (employer’s annual tax
+return for Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents); and 945 (tax return of withheld income
+tax from nonpayroll distributions). Also includes Forms 1042 (tax return of withheld income tax on U.S.-source income of foreign persons); and CT–1 (railroad retire­
+ment tax return). Forms 941–X (adjusted employer’s tax return for income and Social Security taxes withheld for other than household and agricultural employees);
+943–X (adjusted employer’s tax return for agricultural employees); 944–X (adjusted employer’s annual tax return or claim for refund); 945–X (adjusted annual return of
+withheld federal income tax or claim for refund); and CT–1X (adjusted railroad retirement tax return) are included in supplemental documents in this table.
+[5]	 Includes the Form 706 series as follows: 706 (estate and generation-skipping transfer tax return); 706–GS(D) (generation-skipping transfer tax return for distributions);
+706–GS(T) (generation-skipping transfer tax return for terminations); and 706–NA (estate and generation-skipping transfer tax return for nonresident aliens). The TCJA
+increased the filing threshold for estate tax returns beginning with TY 2018.
+[6]	 Includes Forms 11–C (occupational tax and registration for wagering return); 720 (excise tax return); 730 (excise tax return for wagering); 2290 (heavy highway vehicle
+use tax return); 5330 (excise taxes related to employee retirement benefit plans return); and 8849 (claim for refund of excise taxes). Excludes excise tax returns filed
+with U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau. Form 4720 (excise tax return of charities and other persons) is included
+with tax-exempt organizations in this table.
+[7]	 Includes the Form 990 series as follows: 990 (tax-exempt organization information return, long form); 990–EZ (tax-exempt organization information return, short
+form); 990–N (electronic notice (e-Postcard) for tax-exempt organizations not required to file Forms 990 or 990–EZ); 990–PF (private foundation information return);
+and 990–T (tax-exempt organization unrelated business income tax return). Also includes Forms 4720 (excise tax return of charities and other persons); 5227 (split-
+interest trust information return); 8871 (Political Organization Notice of Section 527 Status); and 8872 (political organization report of contributions and expenditures).
+Additionally, includes the Form 8038 series as follows: 8038 (information return for tax-exempt private activity bond issues); 8038–CP (return for credit payments to
+issuers of qualified bonds); 8038–G (information return for tax-exempt governmental bonds); 8038–GC (information return for small tax-exempt governmental bond
+issues, leases, and installment sales); 8038–T (arbitrage rebate, yield reduction and penalty in lieu of arbitrage rebate); and 8328 (carryforward election of unused
+private activity bond volume cap). Tax collected on Form 990–T is combined with business income taxes in other tables. An electronic filing option of Form 5227 began
+in January 2023.
+Footnotes continued on next page.
+--- Page 15 ---
+5
+Internal Revenue Service Data Book, 2024
+Table 2. Number of Returns and Other Forms Filed, by Type, Fiscal Years 2023 and 2024—Continued
+[For Fiscal Year 2024 data by state, see Table 3]
+Footnotes—continued
+[8] Includes Forms 941–X (adjusted employer’s tax return for income and Social Security taxes withheld for other than household and agricultural employees); 943–X
+(adjusted employer’s tax return for agricultural employees); 944–X (adjusted employer’s tax return or claim for refund); 945–X (adjusted annual return of withheld
+federal income tax or claim for refund); 1040–X (amended individual income tax return); 1041–A (information return of charitable contribution deductions by certain
+trusts); 1120–X (amended corporation income tax return); 2553 (small corporation election); 5500–EZ (one-participant retirement plans); 4868 (automatic filing
+extension for individuals); 5558 (filing extension for certain employee retirement plan returns); 7004 (automatic filing extension for corporations); 8752 (required pay-
+ment or refund for certain S corporations and partnerships); 8868 (automatic filing extension for tax-exempt organizations); and CT–1X (adjusted railroad retirement
+tax return).
+NOTE: Detail may not add to totals because of rounding. Percentage changes are based on rounded data.
+SOURCE: Research, Applied Analytics, and Statistics; Statistics of Income.
+--- Page 16 ---
+--- Page 18 ---
+Internal Revenue Service Data Book, 2024
+8
+Table 3.  Number of Returns and Other Forms Filed, by Type and State, Fiscal Year 2024—Continued
+Footnotes
+[1]	 Excludes information returns (e.g., Forms 1098, 1099, 5498, W–2 and W–2G, and Schedule K–1); tax-exempt bond returns (Forms 8038–B and 8038–TC); and em­
+ployee retirement benefit plan returns (Forms 5500 and 5500–SF). See Table 21 for information on tax-exempt bond returns. See Tables 15 and 21 for information
+on employee retirement benefit plans. See Table 24 for data on information returns.
+[2]	 Includes Form 1066 (real estate mortgage investment conduit income tax return) and the Form 1120 series as follows: 1120 (corporation income tax return); 1120–C
+(cooperative association income tax return); 1120–F (foreign corporation income tax return, except foreign life insurance company, foreign property and casualty
+insurance company, or foreign sales corporation); 1120–FSC (foreign sales corporation income tax return); 1120–H (homeowner association income tax return);
+1120–L (life insurance company income tax return); 1120–ND (return for nuclear decommissioning funds); 1120–PC (property and casualty insurance company
+income tax return); 1120–POL (income tax return for certain political organizations); 1120–REIT (real estate investment trust income tax return); 1120–RIC (regu­
+lated investment company income tax return); and 1120–SF (income tax return for settlement funds). Form 1120–X (amended corporation income tax return) is
+included with supplemental documents in this table.
+Excludes Form 1120–S (S corporation income tax return), shown separately. Also excludes Form 990–T (tax-exempt organization unrelated business income tax
+return), which is included under tax-exempt organizations in this table, although the tax reported on these returns is combined with business income taxes in other
+tables.
+[3]	 Includes the Form 1040 series as follows: 1040 (individual income tax return); 1040–A (individual income tax return, short form); 1040–C (income tax return for de­
+parting aliens); 1040–EZ (individual income tax return for single and joint filers with no dependents); 1040–NR (nonresident alien income tax return); 1040NR–EZ
+(income tax return for certain nonresident aliens with no dependents); 1040–PR (self-employment income tax return for Puerto Rico residents);1040–SR (tax return
+for seniors); and 1040–SS (self-employment income tax return for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents). Form
+1040–X (amended individual income tax return) is included with supplemental documents in this table. As a result of the Tax Cuts and Jobs Act of 2017 (TCJA), the
+Form 1040 was redesigned for Tax Year (TY) 2018, making Forms 1040–A and 1040–EZ obsolete. However, as prior-year tax returns continue to be filed, the IRS
+may continue to receive these forms.
+Excludes 1040–SP (declaración de impuestos de los Estados Unidos sobre los ingresos personales) and 1040–SR (SP) (declaración de impuestos de los Estados
+Unidos para personas de 65 años de edad o más).
+[4]	 Includes Forms 940 (employer’s federal unemployment tax return); 940–EZ (employer’s federal unemployment tax return, short form); 940–PR (unemployment
+tax return for Puerto Rico residents); 941 (employer’s quarterly tax return for income and Social Security taxes withheld for other than household and agricultural
+employees); 941–PR/SS (employer’s quarterly tax return for Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana
+Islands residents); 943 (employer’s tax return for agricultural employees); 943–PR/SS (employer’s tax return for agricultural employees for Puerto Rico residents,
+or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents); 944 (employer’s annual tax return or claim for refund); 944–PR/SS
+(employer’s annual tax return for Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents); and 945 (tax
+return of withheld income tax from nonpayroll distributions). Also includes Forms 1042 (tax return of withheld income tax on U.S.-source income of foreign persons);
+and CT–1 (railroad retirement tax return). Forms 941–X (adjusted employer’s tax return for income and Social Security taxes withheld for other than household and
+agricultural employees); 943–X (adjusted employer’s tax return for agricultural employees); 944–X (adjusted employer’s tax return or claim for refund); 945–X (ad­
+justed annual return of withheld federal income tax or claim for refund); and CT–1X (adjusted railroad retirement tax return) are included in supplemental documents
+in this table.
+[5]	 Includes the Form 706 series as follows: 706 (estate and generation-skipping transfer tax return); 706–GS(D) (generation-skipping transfer tax return for distribu­
+tions); 706–GS(T) (generation-skipping transfer tax return for terminations); and 706–NA (estate and generation-skipping transfer tax return for nonresident aliens).
+The TCJA increased the filing threshold for estate tax returns beginning with TY 2018.
+[6]	 Includes Forms 11–C (occupational tax and registration for wagering return); 720 (excise tax return); 730 (excise tax return for wagering); 2290 (heavy highway
+vehicle use tax return); 5330 (excise taxes related to employee retirement benefit plans return); and 8849 (claim for refund of excise taxes). Excludes excise tax
+returns filed with U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau. Form 4720 (excise tax return of charities and other
+persons) is included with tax-exempt organizations in this table.
+[7]	 Includes the Form 990 series as follows: 990 (tax-exempt organization information return, long form); 990–EZ (tax-exempt organization information return, short
+form); 990–N (electronic notice (e-Postcard) for tax-exempt organizations not required to file Forms 990 or 990–EZ); 990–PF (private foundation information
+return); and 990–T (tax-exempt organization unrelated business income tax return). Also includes Forms 4720 (excise tax return of charities and other persons);
+5227 (split-interest trust information return); 8871 (political organization notice of Section 527 status); and 8872 (political organization report of contributions and
+expenditures). Additionally, includes the Form 8038 series as follows: 8038 (information return for tax-exempt private activity bond issues); 8038–CP (return for
+credit payments to issuers of qualified bonds); 8038–G (information return for tax-exempt governmental bonds); 8038–GC (information return for small tax-exempt
+governmental bond issues, leases, and installment sales); 8038–T (arbitrage rebate, yield reduction and penalty in lieu of arbitrage rebate); and 8328 (carryforward
+election of unused private activity bond volume cap). Tax collected on Form 990–T is combined with business income taxes in other tables.
+[8]	 Includes Forms 941–X (adjusted employer’s tax return for income and Social Security taxes withheld for other than household and agricultural employees); 943–X
+(adjusted employer’s tax return for agricultural employees); 944–X (adjusted employer’s annual tax return or claim for refund); 945–X (adjusted annual return of
+withheld federal income tax or claim for refund); 1040–X (amended individual income tax return); 1041–A (information return of charitable contribution deductions
+by certain trusts); 1120–X (amended corporation income tax return); 2553 (small corporation election); 5500–EZ (one-participant retirement plans); 4868 (automatic
+filing extension for individuals); 5558 (filing extension for certain employee retirement plan returns); 7004 (automatic filing extension for corporations); 8752 (re­
+quired payment or refund for certain S corporations and partnerships); 8868 (automatic filing extension for tax-exempt organizations); and CT–1X (adjusted railroad
+retirement tax return). As of FY 2022, the supplemental documents report includes the electronic Form 1040–X.
+[9]	 Includes U.S. territories other than Puerto Rico, U.S. Armed Service members overseas, and international.
+NOTES:
+Detail may not add to totals because of rounding.
+Classification by state is based on the individual’s address (or, in the case of businesses, the location of the principal office or place of business). However, some
+individuals may use the address of a tax attorney or accountant. Sole proprietors, partners in a partnership, or shareholders in an S corporation may use their
+business addresses. Such addresses could have been located in a state other than the state in which the individual resided. Similarly, taxes withheld reported by
+employers located near a state boundary might include substantial amounts withheld from salaries of employees who reside in a neighboring state. Also, while
+taxes of corporations may be paid from the principal office, the operations of these corporations may be located in one or more state(s).
+SOURCE:  Research, Applied Analytics, and Statistics; Statistics of Income.
+--- Page 19 ---
+
+--- Page 21 ---
+11
+Internal Revenue Service Data Book, 2024
+Table 4.  Number of Returns and Other Forms Filed Electronically, by Type and State, Fiscal Year 2024—Continued
+Footnotes
+N/A—Not applicable.
+d—Not shown to avoid disclosure of information about specific taxpayers. However, the data are included in the appropriate totals.
+[1]	 Excludes returns that do not have the requirement or option of filing electronically; information returns (e.g., Forms 1098, 1099, 5498, W–2 and W–2G, and
+Schedule K–1); tax-exempt bond returns (Forms 8038, 8038–B, 8038–CP, 8038–G, 8038–GC, 8038–T, 8038–TC, and 8328); and employee retirement benefit plan
+returns (Forms 5500, 5500–EZ, and 5500–SF).
+[2]	 Includes Forms 1120 (corporation income tax return); 1120–F (foreign corporation income tax return, except foreign life insurance company, foreign property and
+casualty insurance company, or foreign sales corporation); and 1120–POL (income tax return for certain political organizations). Excludes Form 1120–S (S corpora­
+tion income tax return), shown separately.
+[3]	 Includes the Form 1040 series as follows: 1040 (individual income tax return); 1040–A (individual income tax return, short form); 1040–C (income tax return for
+departing aliens); 1040–EZ (individual income tax return for single and joint filers with no dependents); 1040–NR (nonresident alien income tax return); 1040NR– EZ
+(income tax return for certain nonresident aliens with no dependents); 1040–PR (self-employment income tax return for Puerto Rico residents); 1040–SR (tax
+return for seniors); and 1040–SS (self-employment income tax return for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents).
+Form 1040–X (amended individual income tax return) is included with Supplemental documents in this table. As a result of the Tax Cuts and Jobs Act of 2017, the
+Form 1040 was redesigned for Tax Year (TY) 2018, making Forms 1040–A and 1040–EZ obsolete. However, as prior-year tax returns continue to be filed, the IRS
+may continue to receive these forms.
+Excludes 1040–SP (declaración de impuestos de los Estados Unidos sobre los ingresos personales).
+[4]	 Online e-filing is an option that allows taxpayers to prepare and file tax returns using a personal computer. Online returns can be filed through one of two processes:
+taxpayers either complete a tax return on a website without downloading any software, or taxpayers purchase and load software onto their personal computers,
+prepare their returns, and transmit them to the IRS through an online filing company.
+[5]	 Includes two Free File income tax preparation and electronic filing options: (1) all taxpayers could use Free File Fillable Forms, an electronic version of paper re­
+turns that performs simple mathematical calculations; and (2) taxpayers with adjusted gross incomes of $79,000 or less could prepare and file their TY 2023 taxes
+using commercial online software provided through a partnership between the IRS and Free File Alliance, LLC, a group of private-sector tax software companies.
+The Free File Fillable Forms and Free File commercial online software were both available through IRS.gov.
+[6]	 Taxpayers were eligible for Direct File if they lived in one of twelve participating states for all of 2023 and met specific criteria for income, deductions, adjustments,
+and credits. “Other” includes taxpayers who moved to other states after the end of the year, and service members with military addresses, who are considered to
+reside in their home state.
+[7]	 Includes cases in which a taxpayer transmitted the return via an authorized e-file provider, who was, in most cases, also the return preparer.
+[8]	 Includes Forms 940 (employer’s federal unemployment tax return); 941 (employer’s quarterly tax return for income and Social Security taxes withheld for other than
+household and agricultural employees); 941–PR/SS (employer’s quarterly tax return for Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa,
+and Northern Mariana Islands residents); 943 (employer’s tax return for agricultural employees); 943–PR/SS (employer’s tax return for agricultural employees for
+Puerto Rico residents, or for U.S. Virgin Islands, Guam, American Samoa, and Northern Mariana Islands residents); 944 (employer’s annual tax return or claim
+for refund); and 945 (tax return of withheld income tax from nonpayroll distributions). Also includes Form 1042 (tax return of withheld income tax on U.S.-source
+income of foreign persons).
+[9]	 Includes Forms 720 (excise tax return) and 2290 (heavy highway vehicle use tax return). Excludes Form 8849 (claim for refund of excise taxes).
+[10]	Includes some of the Form 990 series as follows: 990 (tax-exempt organization information return, long form); 990–EZ (tax-exempt organization information return,
+short form); 990–N (electronic notice (e-Postcard) for tax-exempt organizations not required to file Forms 990 or 990–EZ); and 990–PF (private foundation informa­
+tion return); and 990–T (tax-exempt organization unrelated business income tax return). Also includes Forms 4720 (excise tax return of charities and other persons);
+5227 (split-interest trust information return); 8871 (political organization notice of Section 527 status); and Form 8872 (political organization report of contributions
+and expenditures).
+[11]	Includes Forms 1040–X (amended individual income tax return); Forms 4868 (automatic filing extension for individuals); 7004 (automatic filing extension for corpo­
+rations); and 8868 (automatic filing extension for tax-exempt organizations). The IRS began offering an electronic option for Form 1040–X in August 2020. Starting
+in FY 2022, the supplemental documents report includes the electronic Form 1040–X.
+[12]	Includes U.S. territories other than Puerto Rico, U.S. Armed Service members overseas, and international.
+NOTES:
+Detail may not add to totals because of rounding.
+Classification by state is based on the individual’s address (or, in the case of businesses, the location of the principal office or place of business). However, some
+individuals may use the address of a tax attorney or accountant. Sole proprietors, partners in a partnership, or shareholders in an S corporation may use their
+business addresses. Such addresses could have been located in a state other than the state in which the individual resided. Similarly, taxes withheld reported by
+employers located near a state boundary might include substantial amounts withheld from salaries of employees who reside in a neighboring state. Also, while
+taxes of corporations may be paid from the principal office, the operations of these corporations may be located in one or more state(s).
+SOURCE:  Research, Applied Analytics, and Statistics; Statistics of Income.
+--- Page 22 ---
+--- Page 24 ---
+Internal Revenue Service Data Book, 2024
+14
+Table 5.  Gross Collections, by Type of Tax and State, Fiscal Year 2024—Continued
+Footnotes
+[1]	 Gross collections include penalties and interest in addition to taxes.
+[2]	 Includes taxes on corporation income (Form 1120 series) and unrelated business income from tax-exempt organizations (Form 990–T).
+[3]	 Collections of withheld individual income tax are not reported by taxpayers separately from Old-Age, Survivors, Disability, and Hospital Insurance (OASDHI) taxes
+on salaries and wages (under the Federal Insurance Contributions Act or FICA) and individual income tax payments along with taxes on self-employment income
+(under the Self-Employment Insurance Contributions Act or SECA). Thus, while Table 1 shows these amounts separately for the United States total, separate
+amounts are not available by state.
+[4]	 Includes collections of estimated estate and trust income taxes and payments made in conjunction with estate and trust tax return filings.
+[5]	 Excludes excise taxes collected by U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau.
+[6]	 Includes tax and excess withholding payments not classified by state as of the end of the fiscal year because they had not been applied to taxpayer accounts.
+Undistributed amounts may be negative when adjustments to taxpayer accounts have not been completed.
+NOTES:
+Detail may not add to totals because of rounding.
+Partnership, S corporation, regulated investment company, and real estate investment trust data are not shown in this table since these entities generally do not
+have a tax liability. Instead, they pass through any profits or losses to the underlying owners, who include these profits or losses on their income tax returns.
+This table shows gross collections. Gross collections less refunds equal net collections. See Table 1 for refunds and net collections.
+Collection and refund data may not be comparable for a given fiscal year because payments made in prior years may be refunded in the current fiscal year.
+Adjustments to prior-year refunds made in Fiscal Year 2024 may result in negative amounts when such adjustments exceed current-year collections. See Tables 7
+and 8 for refund data by state.
+Classification by state is based on the individual’s address (or, in the case of businesses, the location of the principal office or place of business). However, some
+individuals may use the address of a tax attorney or accountant. Sole proprietors may use their business addresses. Such addresses could have been located in
+a state other than the state in which the individual resided. Similarly, taxes withheld and reported by employers located near a state boundary might include sub­
+stantial amounts withheld from salaries of employees who reside in a neighboring state. Also, while taxes of corporations may be paid from the principal office, the
+operations of these corporations may be located in one or more other state(s).
+SOURCE:  Chief Financial Officer, Financial Management, Corporate Accounting.
+--- Page 25 ---
+--- Page 26 ---
+Internal Revenue Service Data Book, 2024
+16
+Table 6. Gross Collections, by Type of Tax, Fiscal Years 1960 – 2024—Continued
+Footnotes
+[1] Gross collections include penalties and interest in addition to taxes.
+[2] Includes taxes on corporation income (Form 1120 series) and on unrelated business income from tax-exempt organizations (Form 990–T).
+[3] Income tax reported for estates and trusts is included in individual income tax in Fiscal Years (FY) 1960–2007. Beginning with FY 2008, estate and trust income tax
+is reported separately.
+[4] Includes taxes for Old-Age, Survivors, Disability, and Hospital Insurance (OASDHI); unemployment insurance under the Federal Unemployment Tax Act (FUTA);
+and railroad retirement under the Railroad Retirement Tax Act (RRTA).
+[5] Excludes excise taxes collected by U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau. The Internal Revenue Service col-
+lected taxes on alcohol and tobacco until FY 1988 and taxes on firearms until FY 1991.
+[6] Represents fiscal-year transitional period, July 1976 through September 1976, resulting from redefinition of the term “fiscal year.” FY 1976 covered July 1975
+through June 1976 (earlier years were similarly defined). FY 1977 covered October 1976 through September 1977 (subsequent years are similarly defined).
+[7] The estate tax was temporarily repealed for deaths in Calendar Year (CY) 2010 before being reinstated retroactively with a $5-million exemption as part of the Tax
+Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. As a result of this legislation, the estates of CY 2010 decedents could elect to file
+either Form 706 (estate and generation-skipping transfer tax return), due September 19, 2011, or Form 8939 (allocation of increase in basis for property acquired
+from a decedent), due January 17, 2012. The law also provided a $5-million exemption for the estates of CY 2011 decedents. These tax law changes significantly
+reduced estate tax gross collections in FY 2011 relative to other fiscal years.
+NOTES:
+Detail may not add to totals because of rounding.
+All money amounts are in current dollars.
+Partnership, S corporation, regulated investment company, and real estate investment trust data are not shown in this table since these entities generally do not
+have a tax liability. Instead, they pass any profits or losses to the underlying owners, who include these profits or losses on their income tax returns.
+This table shows gross collections. Gross collections less refunds equal net collections. See Table 1 for data on refunds and net collections.
+SOURCE: Chief Financial Officer, Financial Management, Corporate Accounting.
+--- Page 27 ---
+
+--- Page 58 ---
+Internal Revenue Service Data Book, 2024
+48
+Table 18.  Examination Coverage:  Recommended Additional Tax, and Returns with Unagreed Additional Tax,
+After Examination, by Type and Size of Return, Fiscal Year 2024—Continued
+Footnotes
+d—Not shown to avoid disclosure of information about specific taxpayers. However, the data are included in the appropriate totals.
+** —Data have been combined to avoid disclosure of information about specific taxpayers.
+N/A—Not applicable.
+[1]	 Excludes excise tax returns filed with U.S. Customs and Border Protection and the Alcohol and Tobacco Tax and Trade Bureau. Also excludes returns of tax-exempt
+organizations, government entities, employee retirement benefit plans, and tax-exempt bonds; and excludes information returns (e.g., Forms 1098, 1099, 5498,
+W–2 and W–2G, and Schedule K–1).
+[2]	 Field examinations are generally performed in person by revenue agents, tax compliance officers, tax examiners, and revenue officer examiners. However, some
+field examinations may ultimately be conducted through correspondence in order to better serve the taxpayer.
+[3]	 In general, total positive income (TPI) is the sum of all positive amounts shown for the various sources of income reported on the individual income tax return, and
+thus excludes losses.
+[4]	 Includes Forms 1040–PR (self-employment income tax return for Puerto Rico residents) and 1040–SS (self-employment income tax return for U.S. Virgin Islands,
+Guam, American Samoa, and the Northern Mariana Islands residents).
+[5]	 Includes all returns selected for examination on the basis of an earned income tax credit (EITC) claim. Shown separately for information purposes. Counts are
+included in the appropriate TPI classes.
+[6]	 Includes the Form 1120 series as follows: 1120 (corporation income tax return); 1120–C (income tax return for cooperative associations); 1120–F (foreign corpora­
+tion income tax return, except foreign life insurance company, foreign property and casualty insurance company, or foreign sales corporation); 1120–H (homeowner
+association income tax return); 1120–L (life insurance company income tax return); 1120–ND (return for nuclear decommissioning funds); 1120–PC (property and
+casualty insurance company income tax return); 1120–REIT (real estate investment trust income tax return); 1120–RIC (regulated investment company income tax
+return); and 1120–SF (income tax return for settlement funds). Excludes certain other types of corporation returns, which are included in “Other taxable returns”
+described in footnote 10.
+[7]	 Forms 1120–C are filed by cooperative associations. Forms 1120–F are filed by foreign corporations with U.S. income, other than foreign life insurance companies
+(Form 1120–L); foreign property and casualty insurance companies (Form 1120–PC); or foreign sales corporations (Form 1120–FSC).
+[8]	 Includes taxable Form 1041 (income tax return for estates and trusts) and Form 1041–N (income tax return for electing Alaska Native Settlement Trusts).
+[9]	 Includes Form 706 (estate and generation-skipping transfer tax return). As a result of changes in the Tax Cuts and Jobs Act of 2017, the IRS changed how it catego­
+rizes returns based on the size of gross estate amount, effective January 2021. In order to avoid disclosure of information about specific taxpayers, only the total is
+provided.
+[10]	Includes Forms 1120–FSC (foreign sales corporation income tax return); 1120–S for S corporations reporting a tax (see footnote 12); 1065–B for partnerships
+reporting a tax; 8288 (withholding tax return for disposition by foreign persons of U.S. property interests); and 8804 (return of withholding tax on foreign partner’s
+share of effectively connected income).
+[11]	Nontaxable returns are filed for entities that generally do not have a tax liability but pass through any profits and losses to the underlying owners, who include these
+profits or losses on their income tax returns. The examination of partnership, S corporation, and other nontaxable returns affects the amount of recommended ad­
+ditional tax for these associated income tax returns.
+[12]	Includes most Forms 1120–S, which are filed by qualifying S corporations electing to be taxed through shareholders. Under certain conditions, S corporations are
+subject to tax and are included in “Other taxable returns” in this table. See footnote 10.
+[13]	Includes the following nontaxable returns: Form 1120–IC–DISC (domestic international sales corporation return); Form 1041 (income tax return for estates and
+trusts); and Form 1066 (real estate mortgage investment conduit income tax return). Under certain circumstances, estates and trusts (Form 1041) are not subject to
+tax and are reported as nontaxable. See estate and trust income tax returns for taxable Forms 1041.
+NOTES:
+Detail may not add to totals because of rounding.
+This table includes information on examinations closed in Fiscal Year 2024 of all individual income tax, corporation income tax, estate and trust income tax, estate
+tax, gift tax, employment tax, excise tax, and other taxable returns, as well as partnership, S corporation, and other nontaxable returns, and information on exami­
+nations in which the taxpayer did not agree with the IRS examiner’s determination. When this occurs, the taxpayer may appeal the decision.
+SOURCE:  Small Business/Self-Employed, Examination, Performance Planning and Analysis Examination, Small Business Exam Data Management.
+--- Page 59 ---

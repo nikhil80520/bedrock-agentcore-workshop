@@ -1,0 +1,47 @@
+default_agent: customer_support_agent_2
+agents:
+  customer_support_agent_2:
+    name: customer_support_agent_2
+    entrypoint: /home/sagemaker-user/bedrock-agentcore-workshop/lab_helpers/lab4_runtime.py
+    platform: linux/arm64
+    container_runtime: docker
+    source_path: null
+    aws:
+      execution_role: arn:aws:iam::720229813050:role/CustomerSupportAssistantBedrockAgentCoreRole-us-west-2
+      execution_role_auto_create: false
+      account: '720229813050'
+      region: us-west-2
+      ecr_repository: 720229813050.dkr.ecr.us-west-2.amazonaws.com/bedrock-agentcore-customer_support_agent_2
+      ecr_auto_create: false
+      network_configuration:
+        network_mode: PUBLIC
+        network_mode_config: null
+      protocol_configuration:
+        server_protocol: HTTP
+      observability:
+        enabled: true
+    bedrock_agentcore:
+      agent_id: customer_support_agent_2-OouYVkHxNu
+      agent_arn: arn:aws:bedrock-agentcore:us-west-2:720229813050:runtime/customer_support_agent_2-OouYVkHxNu
+      agent_session_id: 6027790b-122d-48ce-9485-f3dd9262ec2e
+    codebuild:
+      project_name: bedrock-agentcore-customer_support_agent_2-builder
+      execution_role: arn:aws:iam::720229813050:role/AmazonBedrockAgentCoreSDKCodeBuild-us-west-2-bfacb3fe5e
+      source_bucket: bedrock-agentcore-codebuild-sources-720229813050-us-west-2
+    memory:
+      mode: STM_ONLY
+      memory_id: customer_support_agent_2_mem-W9Ok8I9KBM
+      memory_arn: arn:aws:bedrock-agentcore:us-west-2:720229813050:memory/customer_support_agent_2_mem-W9Ok8I9KBM
+      memory_name: customer_support_agent_2_mem
+      event_expiry_days: 30
+      first_invoke_memory_check_done: false
+    authorizer_configuration:
+      customJWTAuthorizer:
+        allowedClients:
+        - 2djg66a7t0cqqk98aie9toeo1b
+        discoveryUrl: https://cognito-idp.us-west-2.amazonaws.com/us-west-2_NXvVKHtvw/.well-known/openid-configuration
+    request_header_configuration:
+      requestHeaderAllowlist:
+      - Authorization
+      - X-Amzn-Bedrock-AgentCore-Runtime-Custom-H1
+    oauth_configuration: null
